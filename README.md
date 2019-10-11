@@ -1,6 +1,10 @@
 # BankNoteAuthentication
 ## Using Multiple Linear regression to solve banknote authentication problem
 
+Links to my blog posts that I published along with this work- <br />
+[Blog post on Medium](https://medium.com/@penthaa/using-multiple-linear-regression-to-solve-banknote-authentication-problem-eade746479c2) <br />
+[Blog post on dev.to](https://dev.to/penthaapatel/using-multiple-linear-regression-to-solve-banknote-authentication-problem-18j5)
+
 To predict whether a given banknote is authentic given a number of measures taken from a photograph.
 
 Dataset used - [**Banknote Authentication Data Set**](http://archive.ics.uci.edu/ml/datasets/banknote+authentication)
